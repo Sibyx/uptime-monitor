@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/studenti-api.leitus.sk.ico",
     "slug": "leitus",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 567,
     "timeDay": 696,
     "timeWeek": 555,
@@ -45,17 +45,19 @@
     "url": "https://staging-api.langio.sk/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/staging-api.langio.sk.ico",
     "slug": "langio-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 576,
-    "timeDay": 698,
-    "timeWeek": 555,
+    "timeDay": 637,
+    "timeWeek": 557,
     "timeMonth": 576,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-05": 0
+    }
   }
 ]
