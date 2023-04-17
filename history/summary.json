@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/studenti-api.jazykovanie.sk.ico",
     "slug": "smiling-snake",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 684,
-    "timeDay": 699,
-    "timeWeek": 589,
+    "timeDay": 704,
+    "timeWeek": 588,
     "timeMonth": 684,
     "timeYear": 684,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 573,
-    "timeDay": 732,
-    "timeWeek": 607,
-    "timeMonth": 573,
-    "timeYear": 573,
+    "time": 578,
+    "timeDay": 709,
+    "timeWeek": 606,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2023-03-19": 8
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 580,
-    "timeDay": 729,
-    "timeWeek": 602,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "time": 584,
+    "timeDay": 714,
+    "timeWeek": 603,
+    "timeMonth": 584,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2023-04-05": 7
     }
