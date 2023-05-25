@@ -4,18 +4,19 @@
     "url": "https://studenti-api.jazykovanie.sk/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/studenti-api.jazykovanie.sk.ico",
     "slug": "smiling-snake",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.94%",
     "time": 794,
     "timeDay": 444,
     "timeWeek": 1747,
     "timeMonth": 895,
     "timeYear": 794,
     "dailyMinutesDown": {
+      "2023-05-25": 1,
       "2023-05-21": 22,
       "2023-03-25": 13,
       "2023-03-19": 18
@@ -47,7 +48,7 @@
     "url": "https://staging-api.langio.sk/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/staging-api.langio.sk.ico",
     "slug": "langio-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
@@ -59,6 +60,7 @@
     "timeMonth": 586,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2023-05-25": 0,
       "2023-05-21": 27,
       "2023-04-05": 7
     }
