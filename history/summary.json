@@ -4,7 +4,7 @@
     "url": "https://studenti-api.jazykovanie.sk/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/studenti-api.jazykovanie.sk.ico",
     "slug": "smiling-snake",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 946,
     "timeYear": 1252,
     "dailyMinutesDown": {
+      "2024-03-17": 0,
       "2024-02-02": 20,
       "2023-11-30": 8,
       "2023-11-24": 6,
