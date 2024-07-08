@@ -1,7 +1,7 @@
 url: https://staging-api.langio.sk/v1/status
-status: up
-code: 200
-responseTime: 543
-lastUpdated: 2024-07-07T23:00:29.377Z
+status: down
+code: 502
+responseTime: 455
+lastUpdated: 2024-07-08T17:18:25.052Z
 startTime: 2023-03-19T17:37:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
