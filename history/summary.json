@@ -6,15 +6,15 @@
     "slug": "smiling-snake",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "97.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 911,
-    "timeDay": 844,
-    "timeWeek": 641,
-    "timeMonth": 693,
-    "timeYear": 908,
+    "timeDay": 599,
+    "timeWeek": 648,
+    "timeMonth": 688,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-09-24": 41,
       "2025-06-04": 373,
@@ -31,21 +31,20 @@
     "slug": "leitus",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.17%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 645,
-    "timeDay": 817,
-    "timeWeek": 652,
-    "timeMonth": 638,
-    "timeYear": 653,
+    "timeDay": 563,
+    "timeWeek": 640,
+    "timeMonth": 641,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-09-24": 41,
       "2025-08-18": 46,
       "2025-03-10": 16,
-      "2024-10-11": 8,
-      "2024-09-26": 11
+      "2024-10-11": 8
     }
   },
   {
@@ -55,14 +54,14 @@
     "slug": "langio-staging",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "97.21%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 1337,
-    "timeDay": 686,
-    "timeWeek": 583,
-    "timeMonth": 650,
+    "timeDay": 684,
+    "timeWeek": 602,
+    "timeMonth": 654,
     "timeYear": 1567,
     "dailyMinutesDown": {
       "2025-09-24": 40,
@@ -70,8 +69,7 @@
       "2025-07-23": 8,
       "2025-03-10": 16,
       "2024-11-04": 7,
-      "2024-10-11": 20,
-      "2024-09-26": 11
+      "2024-10-11": 20
     }
   }
 ]
